@@ -22,7 +22,7 @@ body {
   
   .header__wrapper header {
     width: 100%;
-    background-image: url(/pic/bge.jpg);
+    background-image: url(pic/bge.jpg);
     min-height: calc(100px + 15vw);
   }
   
